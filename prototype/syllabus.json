@@ -1,0 +1,94 @@
+[
+  {
+    "unit": 1,
+    "title": "Software and Software Engineering; Process Models",
+    "topics": [
+      "The nature of Software",
+      "The unique nature of WebApps",
+      "Software Engineering",
+      "The software Process",
+      "Software Engineering Practice",
+      "Software Myths",
+      "A generic process model",
+      "Process assessment and improvement",
+      "Prescriptive process models",
+      "Waterfall model",
+      "Incremental process models",
+      "Evolutionary process models",
+      "Concurrent models",
+      "Specialized process models",
+      "Unified Process",
+      "Personal and Team process models"
+    ]
+  },
+  {
+    "unit": 2,
+    "title": "Understanding Requirements; Requirements Modeling",
+    "topics": [
+      "Requirements Engineering",
+      "Establishing the ground work",
+      "Eliciting Requirements",
+      "Developing use cases",
+      "Building the requirements model",
+      "Negotiating Requirements",
+      "Validating Requirements",
+      "Requirement Analysis",
+      "Scenario based modeling",
+      "UML models that supplement the Use Case",
+      "Data modeling Concepts",
+      "Class-Based Modeling",
+      "Flow oriented Modeling",
+      "Behavioral Modeling"
+    ]
+  },
+  {
+    "unit": 3,
+    "title": "Agile Development; Principles that guide practice",
+    "topics": [
+      "What is Agility",
+      "Agility and the cost of change",
+      "What is an agile Process",
+      "Extreme Programming (XP)",
+      "Other Agile Process Models",
+      "A tool set for Agile process",
+      "Software Engineering Knowledge",
+      "Core principles",
+      "Principles that guide each framework activity"
+    ]
+  },
+  {
+    "unit": 4,
+    "title": "Introduction to Project Management; Project Evaluation",
+    "topics": [
+      "Project and Importance of Project Management",
+      "Contract Management",
+      "Activities Covered by Software Project Management",
+      "Plans, Methods and Methodologies",
+      "Some ways of categorizing Software Projects",
+      "Stakeholders",
+      "Setting Objectives",
+      "Business Case",
+      "Project Success and Failure",
+      "Management and Management Control",
+      "Project Management life cycle",
+      "Traditional versus Modern Project Management Practices",
+      "Evaluation of Individual projects",
+      "Cost-benefit Evaluation Techniques",
+      "Risk Evaluation"
+    ]
+  },
+  {
+    "unit": 5,
+    "title": "Software Quality; Software Project Estimation",
+    "topics": [
+      "The place of software quality in project planning",
+      "Importance of software quality",
+      "Defining software quality",
+      "Software quality models",
+      "Product versus process quality management",
+      "Observations on Estimation",
+      "Decomposition Techniques",
+      "Empirical Estimation Models"
+    ]
+  }
+]
